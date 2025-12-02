@@ -1,0 +1,21 @@
+# ChartGPT - Chart Analysis & Recommendation System
+# Python dependencies for the ChartGPT system
+
+# Core Python version requirement
+# Python 3.8 or higher is required
+
+# Standard library only - no external dependencies needed
+# The system uses only Python's built-in modules:
+# - re: Regular expressions for keyword extraction
+# - typing: Type hints for Python 3.8+ compatibility
+# - abc: Abstract base classes for extensible design
+
+# Optional visualization dependencies (for extended functionality):
+# matplotlib>=3.5.0
+# seaborn>=0.11.0
+# plotly>=5.0.0
+# pandas>=1.3.0
+
+# Optional for web interface (future enhancement):
+# flask>=2.0.0
+# flask-cors>=3.0.0
